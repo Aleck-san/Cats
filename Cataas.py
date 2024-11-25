@@ -53,6 +53,6 @@ file_menu.add_command(label="Выход", command=exit)
 
 url = "https://Cataas.com/cat"
 
-set_image()
+open_new_window()
 
 window.mainloop()
